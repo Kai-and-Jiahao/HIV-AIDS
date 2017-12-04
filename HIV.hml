@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+div.container {
+    width: 100%;
+    border: 1px solid gray;
+}
+
+header, footer {
+    padding: 1em;
+    color: white;
+    background-color: black;
+    clear: left;
+    text-align: center;
+}
+
+nav {
+    float: left;
+    max-width: 160px;
+    margin: 0;
+    padding: 1em;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+   
+nav ul a {
+    text-decoration: none;
+}
+
+article {
+    margin-left: 170px;
+    border-left: 1px solid gray;
+    padding: 1em;
+    overflow: hidden;
+}
+</style>
+</head>
+
+
+
+<body>
+
+<div class="container">
+
+<header>
+   <h1>HIV/AIDS</h1>
+</header>
+
+<nav>
+  <ul>
+    <li><a href="#1">What's HIV/AIDS</a></li>
+    <li><a href="#2">What does it do?</a></li>
+    <li><a href="#3">HIV/AIDS facts</a></li>
+    <li><a href="#4">The origins of HIV/AIDS</a></li>
+    <li><a href="#5">Symptoms of HIV/AIDS</a></li>
+    <li><a href="#6">Spread rates</a></li>
+    <li><a href="#7">Deaths</a></li>
+    <li><a href="#8">Transmissions</a></li>
+    <li><a href="#9">Was it cured or limitedly?</a></li>
+  </ul>
+</nav>
+
+<article>
+<h3 id="1">what is HIV?</h3>
+<p>HIV stands for human immunodeficiency virus. It is the virus 
+that can lead to acquired immunodeficiency syndrome, or AIDS, if 
+not treated. Unlike some other viruses, the human body can’t get 
+rid of HIV completely, even with treatment. So once you get HIV, 
+you have it for life.</p>
+
+<h3 id="2">What does it do?</h3>
+<p>HIV attacks the body’s immune system, specifically the CD4 cells 
+(T cells), which help the immune system fight off infections. 
+Untreated, HIV reduces the number of CD4 cells (T cells) in the 
+body, making the person more likely to get other infections or 
+infection-related cancers. Over time, HIV can destroy so many 
+of these cells that the body can’t fight off infections and 
+disease. These opportunistic infections or cancers take advantage 
+of a very weak immune system and signal that the person has AIDS, 
+the last stage of HIV infection.</p>
+
+<h3 id="3">HIV/AIDS facts</h3>
+<img class="  lazyloaded" src="https://www.avert.org/sites/default/files/styles/article_scale_style_780/public/Global%20stats%20infographic%2001_Final.jpg?itok=BTAYqYkc&amp;timestamp=1503500159" alt="Graphic showing 36.7 million people living with HIV globally 30% don't know their status" title="">
+<ol>
+    <li>Over 95% of people living with HIV live in developing countries</li>
+    <li>In Africa, the average life expectancy is 47 years. Without AIDS it would be 62</li>
+    <li>In Uganda, girls ages 15-24 are 4 times more likely to contract HIV than boys</li>
+    <li>Most people living with the virus can't access treatment</li>
+    <li>Nearly a quarter of people living with HIV/AIDS are unaware thay have it</li>
+    <li>Over 1 million people in the US have HIV/AIDS, 46% are African American</li>
+    <li>Over 12 million children in Africa have been orphaned due to AIDS</li>
+    <li>There is no cure for HIV/AIDS; antiretroviral drugs can only improve the strengthen the patient's immune system, not cure the disease</li>
+    <li>Since the begginningvof the epidemic there has been 70 million deaths world wide</li>
+</ol>
+
+<img class="irc_mi" src="https://d3jkudlc7u70kh.cloudfront.net/aids-hiv-fact.jpg" width="304" height="150" style="location:middle;" alt="Image result for AIDS/HIV">
+
+<h3 id="4">HIV/AIDS origin</h3>
+<p>Scientists identified a type of chimpanzee in West Africa as 
+the source of HIV infection in humans. They believe that the 
+chimpanzee version of the immunodeficiency virus (called simian 
+immunodeficiency virus or SIV) most likely was transmitted to 
+humans and mutated into HIV when humans hunted these chimpanzees 
+for meat and came into contact with their infected blood.<br><br> Over 
+decades, the virus slowly spread across Africa and later into 
+other parts of the world. The earliest known case of infection 
+with HIV-1 in a human was detected in a blood sample collected 
+in 1959 from a man in Kinshasa, Democratic Republic of the Congo. 
+(How he became infected is not known.) Genetic analysis of this 
+blood sample suggested that HIV-1 may have stemmed from a single 
+virus in the late 1940s or early 1950s. We know that the virus 
+has existed in the United States since at least the mid to late 
+1970s. These were conditions not usually found in people with 
+healthy immune systems. In 1982 public health officials began to 
+use the term "acquired immunodeficiency syndrome," or AIDS, to 
+describe the occurrences of opportunistic infections, Kaposi's 
+sarcoma (a kind of cancer), and  Pneumocystis jirovecii pneumonia 
+in previously healthy people. Formal tracking (surveillance) of AIDS
+cases began that year in the United States. In 1983, scientists 
+discovered the virus that causes AIDS.<br><br>The virus was at first named 
+HTLV-III/LAV (human T-cell lymphotropic virus-type 
+III/lymphadenopathy-associated virus) by an international scientific 
+committee. This name was later changed to HIV (human immunodeficiency
+ virus). For many years scientists theorized as to the origins of HIV 
+and how it appeared in the human population, most believing that HIV 
+originated in other primates. Then in 1999, an international team of 
+researchers reported that they had discovered the origins of HIV-1, 
+the predominant strain of HIV in the developed world. A subspecies 
+of chimpanzees native to west equatorial Africa had been identified 
+as the original source of the virus. The researchers believe that 
+HIV-1 was introduced into the human population when hunters became 
+exposed to infected blood.</p>
+
+<h3 id="5">Symptoms of HIV/AIDS</h3>
+<p>If you have HIV/AIDS...</p>
+<ul>
+	<li>You'll have pain in the abdomen occured while swallowing</li>
+	<li>Your cough can be dry</li>
+	<li>Your whole body can have fatigue, fever, loss of appetite, malaise, night sweats, or sweating</li>
+	<li>Yo'll have nausea, persistent diarrhoea, vomiting, or watery diarrhoea</li>
+	<li>Your mouth can have ulcers or white tongue</li>
+	<li>Your groin hurts or it swelles</li>
+	<li>You have difficult swallowing or soreness</li>
+	<li>You can have opportunistic infections, headaches, oral thrush, pneumonia, red blotches, severe unintentional weight loss, skin rash, or swollen lymph nodes</li>
+</ul>
+
+<h3 id="6">Spread rates of HIV/AIDS</h3>
+<p>1.8 million individuals world wide became newly infected with HIV 
+in 2016. There is about 5 000 new infections per day. This includes 
+160 000 children. Most of the children live in subsaharan Africa.</p>
+	<img usemap="#map-4421" class="media-element file-article  lazyloaded" src="https://www.avert.org/sites/default/files/styles/article_scale_style_780/public/Number%20of%20people%20and%20treatment_updated%20August2017_for%20website.png?itok=Nl1Kxzzb&amp;timestamp=1503495559" alt="Number of people on ART treatment 2016" title="">
+<p>Since the start of the epidemic, an estimated 78 million people 
+have become infected with HIV and 35 million people have died of 
+AIDS-related illnesses. In 2016, 1 million people died of AIDS-related 
+illnesses. </p>
+	<img usemap="#map-4411" class="media-element file-article  lazyloaded" src="https://www.avert.org/sites/default/files/styles/article_scale_style_780/public/New%20infections%20since%202010_updated%20August2017_for%20website.png?itok=tH1yBVdV&amp;timestamp=1503493952" alt="New HIV infections since 2010 to 2017" title="">
+
+<h3 id="7">Deaths</h3>
+<p>Since the beginning of the epidemic, more than 70 million people 
+have been infected with the HIV virus and about 35 million people 
+have died of HIV. Globally, 36.7 million [30.8–42.9 million] people 
+were living with HIV at the end of 2016. An estimated 0.8% 
+[0.7-0.9%] of adults aged 15–49 years worldwide are living with HIV, 
+although the burden of the epidemic continues to vary considerably 
+between countries and regions. Sub-Saharan Africa remains most 
+severely affected, with nearly 1 in every 25 adults (4.2%) living 
+with HIV and accounting for nearly two-thirds of the people living 
+with HIV worldwide.<br>Tuberculosis remains the leading cause of death among 
+people living with HIV, accounting for around one in three AIDS-related 
+deaths. However, some progress had been made with tuberculosis-related 
+deaths among people living with HIV declining by one third since 2007.</p>
+	<img class="irc_mi" src="http://www.who.int/entity/gho/hiv/hiv_013.jpg?ua=1" alt="Image result for how many deaths caused by hiv map" onload="typeof google==='object'&amp;&amp;google.aft&amp;&amp;google.aft(this)" width="608" height="428">
+
+<h3 id="8">Transmissions</h3>
+<p>HIV is spread only in certain body fluids from a person infected 
+with HIV. These fluids are blood semen, pre-seminal fluids, rectal 
+fluids, vaginal fluids and breast milk. In the US, HIV is spread 
+mainly by having sex or sharing injection drug equipment, such as 
+needles, with someone who has HIV.</p>
+
+<h3 id="9">Was it cured or limitedly?</h3>
+<p>No cure exists for AIDS, but strict adherence to antiretroviral 
+regimens (ARVs) can dramatically slow the disease's progress as well 
+as prevent secondary infections and complications.<br><br>Other ways of prevention include:</p>
+<ul>
+	<li>Use a new condom every time you have sex</li>
+	<li>Consider the drug Truvade</li>
+	<li>Tell your sexual partners if you have HIV</li>
+	<li>Use a clean needle</li>
+	<li>If your pregnant, get medical care right away</li>
+	<li>Consider male circumcision</li>
+</ul>
+<p>HIV/AIDS is limmited by the fact that it can only be transmitted by bodily fluids</p>
+
+</article>
+
+
+<footer>Copyright &copy; Kai & Jia Hao</footer>
+</body>
+</html>
